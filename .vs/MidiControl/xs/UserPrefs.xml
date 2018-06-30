@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{91028BD9-8C1D-9A07-BD29-F524DED6A60A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MidiJack/MidiDriver.cs">
+    <Files>
+      <File FileName="Assets/MidiJack/MidiManager.cs" Line="17" Column="77" />
+      <File FileName="Assets/MidiJack/MidiMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/MidiJack/MidiDriver.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
